@@ -12,7 +12,7 @@ public class AlbertoGIT {
     public static void main(String[] args) {
         
          int dato;
-        int intentos = 30;
+        int intentos = 4;
         boolean haGanado = false;
 
         int numero = (int) ((Math.random() * 61) + 20);
