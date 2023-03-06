@@ -21,7 +21,7 @@ public class AlbertoGIT {
 
         while (intentos > 0 && !haGanado) {
             do {
-                System.out.println("introduce un número");
+                System.out.println("introduce un número entre 20 y 80");
                 dato = sc.nextInt();
 
             } while (dato < 20 || dato > 80);
